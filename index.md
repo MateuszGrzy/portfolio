@@ -11,9 +11,8 @@ Wszystkie strony wykonuje w technologiach:
 Wszystkie strony staram się wykonywać zgodnie z dobrymi praktykami SEO
 
 ### Portfolio
-
-<img src="https://www.zaklad-zlotniczy.pl/wp-content/uploads/slider.jpg"><br/>
 ## Zakład Złotniczy Markiewicz Biżuteria
+<img src="https://www.zaklad-zlotniczy.pl/wp-content/uploads/slider.jpg"><br/>
 [Markiewicz Biżuteria](https://www.zaklad-zlotniczy.pl/)
 Strona wykonana w technologi Wordpress i WooCommerce 
 
@@ -21,4 +20,4 @@ Na stronie jest dostępny [sklep](https://www.zaklad-zlotniczy.pl/produkty/), kt
 
 Zgodnie z życzeniami klienta strona jest pozycjonowana pod frazę [obrączki ślubne](https://www.zaklad-zlotniczy.pl/obraczki-slubne/)
 
-
+<hr/>
